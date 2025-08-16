@@ -26,5 +26,5 @@ The site features smooth scroll animations, a clean water-inspired theme, and re
 
 ---
 
-📸 **Preview**
-*(Add screenshot here by dragging project screenshot into repo)*
+<img width="1919" height="919" alt="blue" src="https://github.com/user-attachments/assets/33b7ea4e-654d-4aab-9b1d-05cb140fa804" />
+ 
